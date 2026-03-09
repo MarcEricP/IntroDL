@@ -1,8 +1,7 @@
 # `ml_course`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-user>/<your-repo>/blob/main/image-segmentation/practical_application.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/main/image-segmentation/practical_application.ipynb)
 
-This repository contains course material, including the image segmentation notebook at [image-segmentation/practical_application.ipynb](/home/menir/ml_course/image-segmentation/practical_application.ipynb).
 
 ## Use with Google Colab
 
