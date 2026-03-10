@@ -1,6 +1,6 @@
 # `image-segmentation`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/blob/main/practical_application.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/blob/main/practical_application_exercises.ipynb)
 
 
 ## Use with Google Colab
