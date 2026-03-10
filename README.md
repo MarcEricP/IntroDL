@@ -3,7 +3,7 @@
 Exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/blob/main/practical_application_exercises.ipynb)
 
 
-Correction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/blob/main/practical_application_exercises.ipynb)
+Correction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcEricP/IntroDL/blob/main/practical_application.ipynb)
 
 
 ## Use with Google Colab
